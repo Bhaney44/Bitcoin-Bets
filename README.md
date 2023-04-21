@@ -47,8 +47,6 @@ The demo will focus on a betting application for the NBA Playoffs.
 
 NBA Playoffs: http://www.espn.com/nba/bracket
 
-Choice Coin Cup: https://github.com/Bhaney44/Choice-Coin-Cup
-
 # Examples
 
 *Example 1. Head-to-Head.*
