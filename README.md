@@ -13,28 +13,6 @@ Bolt is a new Bitcoin betting app built on the Bitcoin Lightning Network that of
 
 The technical infrastructure of Bolt is designed to handle the complexities of Bitcoin betting and provides a user-friendly interface that makes it easy for users to place bets and manage their funds. Bolt's Lightning Network integration enables users to make micropayments, reducing transaction fees and allowing for a more flexible and affordable betting experience. Bolt's solution provides a secure, transparent, and reliable platform for Bitcoin betting that addresses the technical challenges of the industry. By offering a fast and user-friendly experience that utilizes the latest in Bitcoin technology, Bolt is poised to become a leading player in the Bitcoin betting market.
 
-# Lightning Links
-
-https://github.com/ElementsProject/lightning
-
-https://github.com/lightningnetwork
-
-https://github.com/lnbook/lnbook
-
-Polar: https://github.com/jamaljsr/polar
-
-Polar Docs: https://bmancini55.github.io/building-lightning/intro.html
-
-Polar Docs: https://docs.lightning.engineering/lapps/guides/polar-lapps
-
-Voltage Deck: https://docs.google.com/presentation/d/1lmHXUQfJtqW2smy-T0mG0oJCoov2OMjFNWb7n1ZQ34k/edit#slide=id.g19db2905d72_1_7
-
-Forkscanner: https://github.com/twilight-project/forkscanner
-
-Forkscanner Setup: https://github.com/twilight-project/forkscanner/blob/scanner-walkthrough/scripts/setup.sql
-
-Micropayments: https://github.com/thebrandonlucas/micropayments
-
 # Expo
 
 MIT Bitcoin Expo Website: https://www.mitbitcoinexpo.org/
