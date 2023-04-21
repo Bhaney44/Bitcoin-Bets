@@ -43,12 +43,3 @@ Contest: 76ers vs. Nets
 Bets: Alice bets 100 Sats on the 76ers and Bob bets 400 Sats on the 76ers. Cletus bets 100 Sats on the Nets and Darnell both bets 900 Sats on the Nets.
 
 Outcome: The 76ers win. Alice wins her 100 Sats back, plus 180 Sats as her proportional share of the 900 total reward pool, for a total of 280 Sats. Bob wins his 400 Sats back, plus 720 Sats as his proportional share of the 900 total reward pool, for a total of 1,120 Sats. Cletus loses his 100 Sats and Darnell loses his 900 Sats. House takes 100 Sats.
-
-
-# Designs
-
-<img width="510" alt="Screenshot 2023-04-06 at 12 38 18 PM" src="https://user-images.githubusercontent.com/43055154/230454529-c977b89a-8aab-4623-a859-2c04daa7c0b5.png">
-
-<img width="501" alt="Screenshot 2023-04-18 at 9 52 55 AM" src="https://user-images.githubusercontent.com/43055154/232816349-e28929fc-3676-4bdd-a23e-38c15766cd8d.png">
-
-<img width="692" alt="Screenshot 2023-04-18 at 10 09 09 AM" src="https://user-images.githubusercontent.com/43055154/232821075-a5ffc263-0eef-45a5-a7ed-2ae9ac37773c.png">
