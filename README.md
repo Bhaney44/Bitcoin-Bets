@@ -41,12 +41,6 @@ MIT Bitcoin Expo Website: https://www.mitbitcoinexpo.org/
 
 MIT Bitcoin Expo Hackathon Devpost: https://mitbitcoin.devpost.com/
 
-# Team
-
-- [Oga](https://github.com/Samuellyworld)
-- [IT Guy](https://github.com/davonjagah) 
-- [Tech Bro](https://github.com/Bhaney44)
-
 # Information
 
 The demo will focus on a betting application for the NBA Playoffs.
