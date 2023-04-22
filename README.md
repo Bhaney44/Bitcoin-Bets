@@ -21,21 +21,4 @@ Our solution seeks to solve the Bitcoin betting problem using Algorand Zero-Know
 
 The demo will focus on a betting application for the [NBA Playoffs](http://www.espn.com/nba/bracket).
 
-# Examples
 
-*Example 1. Head-to-Head.*
-------
-Contest: 76ers vs. Nets
-
-Bets: Alice and Bob both bet 100 Sats on the 76ers. Cletus and Darnell both bet 100 Sats on the Nets.
-
-Outcome: The 76ers win. Alice and Bob both receive their 100 Sats back, plus 90 Sats for a total of 190 Sats each. Cletus and Darnell both lose their 100 Sats. House takes 20 Sats.
-
-
-*Example 2. Head-to-Head.*
-------
-Contest: 76ers vs. Nets
-
-Bets: Alice bets 100 Sats on the 76ers and Bob bets 400 Sats on the 76ers. Cletus bets 100 Sats on the Nets and Darnell both bets 900 Sats on the Nets.
-
-Outcome: The 76ers win. Alice wins her 100 Sats back, plus 180 Sats as her proportional share of the 900 total reward pool, for a total of 280 Sats. Bob wins his 400 Sats back, plus 720 Sats as his proportional share of the 900 total reward pool, for a total of 1,120 Sats. Cletus loses his 100 Sats and Darnell loses his 900 Sats. House takes 100 Sats.
