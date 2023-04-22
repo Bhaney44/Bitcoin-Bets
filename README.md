@@ -11,6 +11,14 @@ The technical challenge in Bitcoin betting lies in ensuring the security and rel
 # Solution
 Our solution seeks to solve the Bitcoin betting problem using Algorand Zero-Knowledge Proofs (ZKPs) as a scaling solution. The solution aims to address the current limitations of Bitcoin betting, such as high transaction fees, slow transaction times, and lack of privacy, by leveraging Algorand's capabilities in transaction speed, low fees, and ZKPs to ensure privacy and security. The dApp allows users to place bets on sporting events with Bitcoin with on-chain results, ensuring a fair and transparent betting environment. The solution aims to provide a fast, efficient, and secure betting platform for users while maintaining the integrity and privacy of their bets.
 
+# Links
+
+[Application](https://www.decentralized-decisions.app/)
+
+[Presentation & Demo](https://www.youtube.com/watch?v=KyZ3iodc9KM)
+
+[Project Submission Page](https://devpost.com/software/bitcoin-bets)
+
 # Expo
 
 [MIT Bitcoin Expo Website](https://www.mitbitcoinexpo.org/)
