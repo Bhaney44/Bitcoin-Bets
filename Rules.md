@@ -6,7 +6,8 @@
 4. All bets are final.
 5. This is only a trial software for purposes of entering a hackathon.
 6. Use the software at your own risk.
-7. All winnings will be returned within 48 hours of the contest.
+7. All bets are 100 Satoshis
+8. All winnings will be returned within 48 hours of the contest.
 
 # Examples
 
