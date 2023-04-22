@@ -132,7 +132,7 @@ function App() {
         </h1>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <a href="">
+          <a href="https://github.com/Bhaney44/Bitcoin-Bets/blob/main/Rules.md">
               <button id='button2'>Rules</button>
           </a>
            <button id='button1' onClick={walletConnect}> Connect</button>
