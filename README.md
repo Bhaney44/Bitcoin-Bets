@@ -15,15 +15,13 @@ The technical infrastructure of Bolt is designed to handle the complexities of B
 
 # Expo
 
-MIT Bitcoin Expo Website: https://www.mitbitcoinexpo.org/
+[MIT Bitcoin Expo Website](https://www.mitbitcoinexpo.org/)
 
-MIT Bitcoin Expo Hackathon Devpost: https://mitbitcoin.devpost.com/
+[MIT Bitcoin Expo Hackathon Devpost](https://mitbitcoin.devpost.com/)
 
 # Information
 
-The demo will focus on a betting application for the NBA Playoffs.
-
-NBA Playoffs: http://www.espn.com/nba/bracket
+The demo will focus on a betting application for the [NBA Playoffs](http://www.espn.com/nba/bracket).
 
 # Examples
 
