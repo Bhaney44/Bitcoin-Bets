@@ -1,5 +1,5 @@
 # Bitcoin Bets
-[Bitcoin Bets](https://www.decentralized-decisions.app/) is a betting application for the 2023 MIT Bitcoin Expo Hackathon. The goal for the project is to make betting with Bitcoin easy. Check out the demo on [YouTube](https://www.youtube.com/watch?v=BvwfuwkuUi0), to see how it works.
+[Bitcoin Bets](https://www.decentralized-decisions.app/) is a betting application for the 2023 MIT Bitcoin Expo Hackathon. The goal for the project is to make betting with Bitcoin easy. Check out the demo on [YouTube](https://www.youtube.com/watch?v=KyZ3iodc9KM), to see how it works.
 
 *Dedication.* Bitcoin Bets is dedicated to the late, great Bitcoiner Hal Finney. Read Finney's story in the Bitcoin Forum, [Bitcoin and Me (Hal Finney).](https://bitcointalk.org/index.php?topic=155054.0)
 
