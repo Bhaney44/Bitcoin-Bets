@@ -93,13 +93,13 @@ const vote_transaction2 = async () => {
 
 
 (async () => {
-  let account_info7 = (await algodClient.accountInformation(voteAddress5).do());
+  let account_info7 = (await algodClient.accountInformation(voteAddress1).do());
   let asset_value7 = account_info7['assets']
   let asset_amount7 = asset_value7[0]["amount"]
   let asset_amount13 = asset_amount7 
   document.getElementById('message8').textContent = asset_amount13 + "  Sats"
 
-  let account_info29 = (await algodClient.accountInformation(voteAddress6).do());
+  let account_info29 = (await algodClient.accountInformation(voteAddress2).do());
   let asset_value29 = account_info29['assets']
   let asset_amount29 = asset_value29[0]["amount"]
   let asset_amount33 = asset_amount29 
